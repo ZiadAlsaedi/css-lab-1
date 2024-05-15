@@ -1,0 +1,28 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+   
+}
+
+body{
+   background-image: url("https://img.freepik.com/free-vector/realistic-neon-lights-background_23-2148907367.jpg?size=626&ext=jpg");
+    background-size:cover;
+    background-repeat:no-repeat;  
+}
+.head{
+    margin: 0.8rem 0.8rem;
+    border: 2px solid rgb(22, 22, 22);
+    box-shadow: 0.3rem 0.3rem 0.3rem black;
+    color: azure;
+    background-color: rgba(22, 56, 227, 0.308);
+
+}
+.pargraph{
+  margin:0rem 1.3rem ; 
+  color: azure;
+
+}
+
+a{
+    color: rgb(209, 209, 217);
+}

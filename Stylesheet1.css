@@ -1,0 +1,25 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    background-color: rgb(227, 227, 227);
+}
+ .head{
+    border: 0.1rem solid black;
+    text-align: center;
+    background-color: rgb(16, 115, 213);
+    color: azure;
+    padding: 0.5rem 0;
+    box-shadow: 0.1rem 0rem 1rem black;
+    margin: 0.8rem 0;
+    border-radius: 1rem;
+ }
+
+ .pargraph{
+    margin-left: 4%;
+    margin-top: 2%;
+ }
+
+ .order{
+    margin-left: 4%;
+ 
+ }
